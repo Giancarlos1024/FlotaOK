@@ -1,16 +1,16 @@
-# app_jose
+## CLONAR EL PROYECTO
+→ git clone https://github.com/Giancarlos1024/FlotaOK.git
 
-A new Flutter project.
+## INGRESAR AL PROYECTO
+→ cd FlotaOK
 
-## Getting Started
+## INSTALAR DEPENDENCIAS
+→ flutter pub get
 
-This project is a starting point for a Flutter application.
+## AGREGAR ARCHIVO ( google-services.json )
+→ android/app/google-services.json
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TENER EL EMULADOR VISIBLE
+→ emulador ya creado en android studio y en uso.
+## EJECUTAR EL PROYECTO
+→ flutter run
